@@ -1,0 +1,2 @@
+# gitLinux
+setup git
